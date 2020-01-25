@@ -9,7 +9,7 @@ elusive particles that, amazingly, are so far most conveniently observed using
 a detector [at the South Pole](https://icecube.wisc.edu/).
 
 As we enter the 2020's, I'm transitioning into data science.  On this page I
-plan to share thoughts on that transition, on interesting datasets and methods,
+plan to share thoughts on that transition, interesting datasets and methods,
 and related topics.
 
 

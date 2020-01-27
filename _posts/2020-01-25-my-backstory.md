@@ -11,8 +11,8 @@ most influential present of my life.
 
 This was 1995.  We're talking about a 25 MHz 486, presumably at least several
 megs of RAM.  MS-DOS six point something and Windows 3.1.  It was just enough
-to play DOOM, but not enough to play Quake (the 486 was missing the math
-coprocessor).  It was enough for writing trivial programs in QBasic.
+to play DOOM, but not enough to eventually play Quake (the 486 was missing the
+math coprocessor).  It was enough for writing trivial programs in QBasic.
 
 Code seemed to offer a world of endless possibility.  In those early years, I
 can't say I implemented anything of note.  Perhaps the most fun I had was
@@ -103,9 +103,9 @@ starting with frequentist maximum likelihood methods, going back for $\chi^2$
 and Poisson statistics and eventually Bayes' theorem.  I wrote my own
 boosted/random decision tree forest library in 2010, before scikit-learn
 supported weighted training samples (critical for high energy particle
-physics).  I demonstrated that gamma ray bursts (GRBs) usually don't make
-neutrinos when they make gamma rays.  This last bit was enough to write a
-[decent paper](https://arxiv.org/abs/1412.6510) and a solid Ph.D.
+physics).  I demonstrated that gamma ray bursts (GRBs) usually don't make high
+energy neutrinos when they make gamma rays.  This last bit was enough to write
+a [decent paper](https://arxiv.org/abs/1412.6510) and a solid Ph.D.
 dissertation.
 
 ---
@@ -124,11 +124,10 @@ We started graduating students.  I performed analyses leading to a
 
 ![All-sky scan for neutrino sources evident in IceCube cascades](</assets/img/blog/2020-01-25/skymap_mlog10p.png> "All-sky scan for neutrino sources evident in IceCube cascades")
 
-Along the way, I dove deep into
-the numpy/scipy/matplotlib stack.  I drafted my own histogram library called
-[histlite](histlite.readthedocs.io/) as well as additional IceCube-internal
-packages.  I met my fiancée and learned that even condensed matter physics is
-interesting if there's data.
+Along the way, I dove deep into the numpy/scipy/matplotlib stack.  I drafted my
+own histogram library called [histlite](histlite.readthedocs.io/) as well as
+additional IceCube-internal packages.  I met my fiancée, who taught me that
+even condensed matter physics is interesting if there's data.
 
 ---
 

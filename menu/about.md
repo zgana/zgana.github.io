@@ -32,7 +32,7 @@ GitHub Pages.
 
 ## career
 
-**Cadent** *Data Scientist* \\
+**Cadent** *Associate Data Scientist* \\
 January 2020 — present Philadelphia, PA
 
 **Drexel University** *Post Doctoral Researcher* \\

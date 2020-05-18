@@ -27,12 +27,12 @@ relations.  For example, one of our favorites was:
 
 $$x\cdot y\cdot\sin(x+y) = x+y.$$
 
-We used Visual Basic 6 for the user interface, and QBasic as the math
-backend --- we were far from being able to parse expressions programatically.
-The plotting code was entirely custom, starting from a raw `DrawingArea` or
-something like that.  With pirated copies of VB and virtually no guidance, this
-was apparently the most direct route to our goal of visualizing arbitrary
-2D relations.
+We used Visual Basic 6 for the user interface, and QBasic as the math backend
+--- we were far from being able to parse expressions programatically.  The
+plotting code was entirely custom, starting from a raw `DrawingArea` or
+something like that.  With quasi-pirated copies of VB and virtually no
+guidance, this was apparently the most direct route to our goal of visualizing
+arbitrary 2D relations.
 
 ---
 
@@ -76,7 +76,7 @@ HTML web page.
 
 I didn't know what to do next, but grad school seemed like a decent choice.  My
 record on paper looked great, and I got into the University of Maryland, where
-I promptly got my ass kicked by serious coursework intended for serious
+I promptly got my butt kicked by serious coursework intended for serious
 students.  The level of rigor was multiple notches above that of my small
 liberal arts college background.  I switched from Emacs to Vim.
 
@@ -125,7 +125,7 @@ We started graduating students.  I performed analyses leading to a
 ![All-sky scan for neutrino sources evident in IceCube cascades](</assets/img/blog/2020-01-25/skymap_mlog10p.png> "All-sky scan for neutrino sources evident in IceCube cascades")
 
 Along the way, I dove deep into the numpy/scipy/matplotlib stack.  I drafted my
-own histogram library called [histlite](histlite.readthedocs.io/) as well as
+own histogram library called [histlite](https://histlite.readthedocs.io/) as well as
 additional IceCube-internal packages.  I met my fiancée, who taught me that
 even condensed matter physics is interesting if there's data.
 

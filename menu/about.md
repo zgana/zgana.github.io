@@ -15,7 +15,7 @@ and related topics.
 
 ## lo selzga?
 
-When I signed up for GitHub, I was very interested in a [constructed
+When I signed up for GitHub, I was also very interested in a [constructed
 language](https://en.wikipedia.org/wiki/Constructed_language) called
 [lojban](http://www.lojban.org/).  *lojban* [there's no capitalization in this
 language] means *logical language* in lojban.

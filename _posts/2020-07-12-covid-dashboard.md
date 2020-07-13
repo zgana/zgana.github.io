@@ -6,7 +6,7 @@ categories: current-events
 tags: [visualization, mapping, covid19, population density]
 ---
 
-![COVID-19 Dashboard: Cases by County](</assets/img/blog/2020-07-13/screenshot-dashboard-county-positives.png> "COVID-19 Dashboard: Cases by County")
+![COVID-19 Dashboard: Cases by County](</assets/img/blog/2020-07-12/screenshot-dashboard-county-positives.png> "COVID-19 Dashboard: Cases by County")
 <br/>
 
 This past May, I [wrote](current-events/covid-19.html) about the overwhelming
@@ -282,22 +282,22 @@ The first two tabs in my dashboard offer state-level and county-level maps.
 
 <br/>
 _**state-level maps**_
-![COVID-19 Dashboard: State-Level Maps](</assets/img/blog/2020-07-13/screenshot-1-state.png> "COVID-19 Dashboard: State-Level Maps")
+![COVID-19 Dashboard: State-Level Maps](</assets/img/blog/2020-07-12/screenshot-1-state.png> "COVID-19 Dashboard: State-Level Maps")
 
 <br/>
 _**county-level maps**_
-![COVID-19 Dashboard: County-Level Maps](</assets/img/blog/2020-07-13/screenshot-2-county.png> "COVID-19 Dashboard: County-Level Maps")
+![COVID-19 Dashboard: County-Level Maps](</assets/img/blog/2020-07-12/screenshot-2-county.png> "COVID-19 Dashboard: County-Level Maps")
 
 The following two tabs offer state-level and county-level scatterplots, again
 with a date slider.
 
 <br/>
 _**state-level scatter plots**_
-![COVID-19 Dashboard: State-Level Scatter Plots](</assets/img/blog/2020-07-13/screenshot-3-state.png> "COVID-19 Dashboard: State-Level Scatter Plots")
+![COVID-19 Dashboard: State-Level Scatter Plots](</assets/img/blog/2020-07-12/screenshot-3-state.png> "COVID-19 Dashboard: State-Level Scatter Plots")
 
 <br/>
 _**county-level scatter plots**_
-![COVID-19 Dashboard: County-Level Scatter Plots](</assets/img/blog/2020-07-13/screenshot-4-county.png> "COVID-19 Dashboard: County-Level Scatter Plots")
+![COVID-19 Dashboard: County-Level Scatter Plots](</assets/img/blog/2020-07-12/screenshot-4-county.png> "COVID-19 Dashboard: County-Level Scatter Plots")
 
 These could have been implemented using `ColumnDataSource`, but I recycled the
 `GeoJSONDataSource` instances since they were already available.  Aside from
@@ -433,7 +433,7 @@ for p in np.ravel(all_ps):
 
 <br/>
 _**state-level timeseries**_
-![COVID-19 Dashboard: State-Level Timeseries](</assets/img/blog/2020-07-13/screenshot-5-timeseries.png> "COVID-19 Dashboard: State-Level Timeseries")
+![COVID-19 Dashboard: State-Level Timeseries](</assets/img/blog/2020-07-12/screenshot-5-timeseries.png> "COVID-19 Dashboard: State-Level Timeseries")
 
 
 ### dashboard assembly

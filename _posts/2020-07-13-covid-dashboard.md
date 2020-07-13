@@ -17,7 +17,7 @@ data science scene, I was most excited about the interactive maps.  (The data
 itself is horrifying; it's just the plots that are exciting.)
 [Bokeh](https://docs.bokeh.org/en/latest/index.html) is cool!  
 
-[This dashboard](assets/dashboards/covid19.html) is the result of that
+[This dashboard](/assets/dashboards/covid19.html) is the result of that
 excitement.  [This repository](https://github.com/zgana/coronavirus) contains
 the implementation.
 

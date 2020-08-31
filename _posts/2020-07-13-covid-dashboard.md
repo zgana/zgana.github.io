@@ -520,7 +520,7 @@ tools to inspect the internals.  Several times in the development of this
 dashboard, I got stuck while working on a JavaScript callback.  Sometimes that
 was because I just don't know all that much JavaScript.  Other times it was
 unclear how an object would translate from Bokeh+Python to Bokeh+JavaScript.
-But between `consol.log()` and the object inspector, I was able to iteratively
+But between `console.log()` and the object inspector, I was able to iteratively
 hone in on the properties or methods I was looking for.
 
 It was definitely fun to go this deep into Bokeh for this project.  In my next
